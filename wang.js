@@ -1,1 +1,4 @@
-alert("888");
+window.onload=function(){
+			
+			alert('88');
+		}
